@@ -1,0 +1,6 @@
+hostname R1-CISCO
+interface loopback0
+ description Interface de prueba automatizada
+ ip address 10.10.10.1 255.255.255.255
+ no shutdown
+exit

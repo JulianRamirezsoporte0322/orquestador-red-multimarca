@@ -1,0 +1,7 @@
+system-view
+sysname SW1-HUAWEI
+interface LoopBack0
+description Interface de prueba automatizada
+ip address 10.10.20.1 255.255.255.255
+quit
+save

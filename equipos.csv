@@ -1,0 +1,5 @@
+nombre,ip,fabricante,tipo_dispositivo,protocolo,usuario,password,puerto
+R1-CISCO,192.168.10.1,cisco,cisco_ios,ssh,admin,admin123,22
+SW1-HUAWEI,192.168.10.2,huawei,huawei,ssh,admin,admin123,22
+FW1-FORTINET,192.168.10.3,fortinet,fortinet,ssh,admin,admin123,22
+RT1-MIKROTIK,192.168.10.4,mikrotik,mikrotik_routeros,ssh,admin,admin123,22
