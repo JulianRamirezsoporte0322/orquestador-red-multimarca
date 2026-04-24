@@ -46,4 +46,4 @@ orquestador-red-multimarca/
 
 El proyecto se encuentra publicado en Netlify y puede visualizarse aquí:
 
-🔗 [https://miproyectodered.netlify.app/](https://miproyectodered.netlify.app/)
+🔗 https://miproyectodered.netlify.app/
